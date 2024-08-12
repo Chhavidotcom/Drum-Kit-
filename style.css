@@ -1,7 +1,8 @@
 html {
     font-size: 10px;
-    background: url('./Background.jpg') bottom center;
-    background-size: cover;
+    background: url('Background.jpg') no-repeat bottom center;
+background-size: cover; 
+
   }
   
   body,html {
